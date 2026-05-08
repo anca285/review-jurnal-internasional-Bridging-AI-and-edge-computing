@@ -1,0 +1,2 @@
+# review-jurnal-internasional-Bridging-AI-and-edge-computing
+Jurnal ini ditulis oleh Franklin Oliveira, Daniel G. Costa, dan Flávio Assis, dipublikasikan  pada tahun 2026 di jurnal Internet of Things (Elsevier). Penelitian ini bertujuan untuk  mengevaluasi kinerja model YOLO11 untuk deteksi objek pada perangkat edge murah  tanpa akselerator hardware khusus, yaitu single-board computer berbasis CPU saja.
